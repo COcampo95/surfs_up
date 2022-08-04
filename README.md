@@ -4,6 +4,7 @@
 The investor wants to learn more about the weather before committing to build a Surf and Ice Cream shop in Oahu, Hawaii. The investor's main concern is the precipitation forcing the shop to close too frequently. To analyze Hawaii's weather data, SQLAlchemy was used to query the SQLite database.
 
 ##Results
+
 ###June Stats for Temperature and Precipitation 
 
 ![june_temp](https://user-images.githubusercontent.com/105950742/182745419-6b22daef-8544-47bd-9b0c-3bf51a98acef.png)
